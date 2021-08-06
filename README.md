@@ -2,6 +2,10 @@
 Etherscan adress of the deployed contract
 https://rinkeby.etherscan.io/tx/0xb77ba212b9e551d309ff41fa91fad1c4bafe11903e71ce207a2251783e634642
 
+
+The program use the following Truffle, Solidity version as they are the one indicated in the starter code.
+(npm i -g truffle@4.1.14) Node and web3 version seems to work fine with this version of Truffle.
+
 Truffle v4.1.14 (core: 4.1.14)
 Solidity v0.4.24 (solc-js)
 
